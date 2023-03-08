@@ -1,9 +1,10 @@
 {
     "files.autoSave": "afterDelay",
     "files.associations": {
-        "*.css": "tailwindcss"
+        // "*.css": "tailwindcss"
     },
     "editor.quickSuggestions": {
         "strings": "on"
-    }
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
